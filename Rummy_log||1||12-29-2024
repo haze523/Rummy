@@ -1,0 +1,1 @@
+The file Initial_Rummy.py is my original implementation of rummy in python. This version allows 2-4 players. Play is conducted on one terminal. I am currently reworking rummy to allow easier implementation of machine learning. This new version will allow my ai I am currently devolping to play/learn rummy.
